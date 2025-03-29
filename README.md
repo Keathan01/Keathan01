@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Keathan Bredenkamp
-#### Software Development Student🤖
+
  ![freepik-gradient-exquisite-homes-real-estate-banner-20250329133835juLL](https://github.com/user-attachments/assets/9db2af31-8b1e-4fbd-9d51-299d08d2668c)
 
 
