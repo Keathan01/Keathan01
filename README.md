@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Keathan Bredenkamp
-#### Software Development Student
+#### Software Development Student🤖
 ![Software Development Student](https://arturssmirnovs.github.io//images/banner.png)
 
 I'm a Software development student with a strong foundation in coding languages such as Html and Css. I also have a strong background in electrical engineering and hospitality, while my journey to become a software developer may not be the most conventional , my dream is to one day be a qualified software developer that specializes in AI and machine learning. My technical expertise coupled with my vast experience in different fields highlights my keen problem-solving ability and readiness to embrace new challenges that foster growth.
@@ -7,8 +7,8 @@ I thrive in collaborative settings, where my quick learning and critical thinkin
 
 Skills:  HTML / CSS/TAILWIND/Bootstrap/Problem Solving/Git/Customer service/Microsoft office
 
-- 🔭 I’m currently working on My Resume Website Portfolio  
-- 🌱 I’m currently learning Tailwind and Bootstrap 
+- 💻 I’m currently working on My Resume Website Portfolio  
+- 🌲 I’m currently learning Tailwind and Bootstrap 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Keathan01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/keathan-bredenkamp-09a04928a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](bredenkampk29@gmail.com)  
@@ -19,7 +19,7 @@ Skills:  HTML / CSS/TAILWIND/Bootstrap/Problem Solving/Git/Customer service/Micr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keathan01)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Keathan01&show_icons=true)  
+![Keathan01's Stats](https://github-readme-stats.vercel.app/api?username=Keathan01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Keathan01/contributions?format=svg&private=false)  
 
