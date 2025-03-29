@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Keathan Bredenkamp
 #### Software Development Student🤖
-![Software Development Student ![freepik-gradient-exquisite-homes-real-estate-banner-20250329133835juLL](https://github.com/user-attachments/assets/9db2af31-8b1e-4fbd-9d51-299d08d2668c)
+ ![freepik-gradient-exquisite-homes-real-estate-banner-20250329133835juLL](https://github.com/user-attachments/assets/9db2af31-8b1e-4fbd-9d51-299d08d2668c)
 
 
 I'm a Software development student with a strong foundation in coding languages such as Html and Css. I also have a strong background in electrical engineering and hospitality, while my journey to become a software developer may not be the most conventional , my dream is to one day be a qualified software developer that specializes in AI and machine learning. My technical expertise coupled with my vast experience in different fields highlights my keen problem-solving ability and readiness to embrace new challenges that foster growth.
