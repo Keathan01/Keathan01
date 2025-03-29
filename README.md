@@ -23,7 +23,7 @@ Skills:  HTML / CSS/TAILWIND/Bootstrap/Problem Solving/Git/Customer service/Micr
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Keathan01/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/Keathan01)  
+(https://metrics.lecoq.io/Keathan01)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Keathan01)  
 
