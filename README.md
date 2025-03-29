@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Keathan Bredenkamp
 #### Software Development Student
-![Software Development Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Software Development Student](https://arturssmirnovs.github.io//images/banner.png)
 
 I'm a Software development student with a strong foundation in coding languages such as Html and Css. I also have a strong background in electrical engineering and hospitality, while my journey to become a software developer may not be the most conventional , my dream is to one day be a qualified software developer that specializes in AI and machine learning. My technical expertise coupled with my vast experience in different fields highlights my keen problem-solving ability and readiness to embrace new challenges that foster growth.
 I thrive in collaborative settings, where my quick learning and critical thinking skills will contribute to enormously to ensure projects will have a successful outcome.
